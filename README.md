@@ -4,7 +4,7 @@
 
 # run class
 ```php
-require'class.url.php';
+require_once'classDomain.php';
 //run class
 $ip = new info();
 //run fun to get ip 
